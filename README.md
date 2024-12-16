@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif)]
 <h1 align="center">Hi 👋, I'm Hussein Fakih</h1>
 <h3 align="center">A passionate Full-Stack Developer from Lebanon</h3>
 
