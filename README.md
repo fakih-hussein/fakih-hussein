@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" alt="MasterHead" width="70%" >
 </p>
-<h1 align="center">Hi 👋, I'm Hussein Fakih</h1>
+<h1 align="center">I'm Hussein Fakih</h1>
 <h3 align="center">A passionate Full-Stack Developer from Lebanon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fakih-hussein" alt="fakih-hussein" /></a> </p>
